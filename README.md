@@ -4,4 +4,5 @@ Denne her git repository indeholder kode til backend-delen til en Fitness WebApp
 
 Formålet med denne opgave er helt simpelt: Opnå erfaring med KEAN-stacket, og arbejde sig rundt om blandt frontend samt backend af en webapplikation. 
 
+Frontend kan ses her: https://github.com/Parweiz/Fitnessapp-frontend
 
